@@ -1,0 +1,646 @@
+{
+  "albums": {
+    "href": "https://api.spotify.com/v1/browse/new-releases?country=CH&offset=50&limit=50",
+    "items": [
+
+
+
+
+
+
+
+
+{
+  "album_type": "episode",
+  "artists": [
+    {
+      "external_urls": { "spotify": "https://open.spotify.com/show/6fZpCgk1hkdzIx9vL8i5bE?si=168be3875473440d&nd=1" },
+      "href": "https://api.spotify.com/v1/shows/PUT_SHOW_ID",
+      "id": "PUT_SHOW_ID",
+      "name": "Nesten Hele Uka med Lepperød",
+      "type": "show",
+      "uri": "spotify:show:PUT_SHOW_ID"
+    }
+  ],
+  "available_markets": [
+    "AD","AE","AG","AL","AM","AO","AR","AT","AU","AZ","BA","BB","BD","BE","BF","BG","BH","BI","BJ","BN","BO","BR","BS","BT","BW","BY","BZ","CA","CD","CG","CH","CI","CL","CM","CO","CR","CV","CW","CY","CZ","DE","DJ","DK","DM","DO","DZ","EC","EE","EG","ES","ET","FI","FJ","FM","FR","GA","GB","GD","GE","GH","GM","GN","GQ","GR","GT","GW","GY","HK","HN","HR","HT","HU","ID","IE","IL","IN","IQ","IS","IT","JM","JO","JP","KE","KG","KH","KI","KM","KN","KR","KW","KZ","LA","LB","LC","LI","LK","LR","LS","LT","LU","LV","LY","MA","MC","MD","ME","MG","MH","MK","ML","MN","MO","MR","MT","MU","MV","MW","MX","MY","MZ","NA","NE","NG","NI","NL","NO","NP","NR","NZ","OM","PA","PE","PG","PH","PK","PL","PS","PT","PW","PY","QA","RO","RS","RW","SA","SB","SC","SE","SG","SI","SK","SL","SM","SN","SR","ST","SV","SZ","TD","TG","TH","TJ","TL","TN","TO","TR","TT","TV","TW","TZ","UA","UG","US","UY","UZ","VC","VE","VN","VU","WS","XK","ZA","ZM","ZW"
+  ],
+  "external_urls": { "spotify": "https://open.spotify.com/episode/5c2ZDwiru8Lx3qbE68bA4e?si=770702423b804011&nd=1" },
+  "href": "https://api.spotify.com/v1/episodes/5c2ZDwiru8Lx3qbE68bA4e",
+  "id": "5c2ZDwiru8Lx3qbE68bA4e",
+  "images": [
+    { "height": 640, "url": "https://image-cdn-ak.spotifycdn.com/image/ab67656300005f1f031cb15ceb40a041c761c871", "width": 640 },
+    { "height": 300, "url": "https://image-cdn-ak.spotifycdn.com/image/ab67656300005f1f031cb15ceb40a041c761c871", "width": 300 },
+    { "height": 64,  "url": "https://image-cdn-ak.spotifycdn.com/image/ab67656300005f1f031cb15ceb40a041c761c871", "width": 64 }
+  ],
+  "name": "Dundrerunde med Pikachu",
+  "release_date": "",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "type": "episode",
+  "uri": "spotify:episode:5c2ZDwiru8Lx3qbE68bA4e"
+}
+,
+
+
+
+
+
+
+            {
+        "album_type": "episode",
+        "artists": [
+          {
+            "external_urls": { "spotify": "https://open.spotify.com/show/59jhtT6iMR2IsFXl3cq2cO" },
+            "href": "https://api.spotify.com/v1/shows/59jhtT6iMR2IsFXl3cq2cO",
+            "id": "59jhtT6iMR2IsFXl3cq2cO",
+            "name": "Gukild & Johaug",
+            "type": "show",
+            "uri": "spotify:show:59jhtT6iMR2IsFXl3cq2cO"
+          }
+        ],
+        "available_markets": [
+          "AD","AE","AG","AL","AM","AO","AR","AT","AU","AZ","BA","BB","BD","BE","BF","BG","BH","BI","BJ","BN","BO","BR","BS","BT","BW","BY","BZ","CA","CD","CG","CH","CI","CL","CM","CO","CR","CV","CW","CY","CZ","DE","DJ","DK","DM","DO","DZ","EC","EE","EG","ES","ET","FI","FJ","FM","FR","GA","GB","GD","GE","GH","GM","GN","GQ","GR","GT","GW","GY","HK","HN","HR","HT","HU","ID","IE","IL","IN","IQ","IS","IT","JM","JO","JP","KE","KG","KH","KI","KM","KN","KR","KW","KZ","LA","LB","LC","LI","LK","LR","LS","LT","LU","LV","LY","MA","MC","MD","ME","MG","MH","MK","ML","MN","MO","MR","MT","MU","MV","MW","MX","MY","MZ","NA","NE","NG","NI","NL","NO","NP","NR","NZ","OM","PA","PE","PG","PH","PK","PL","PS","PT","PW","PY","QA","RO","RS","RW","SA","SB","SC","SE","SG","SI","SK","SL","SM","SN","SR","ST","SV","SZ","TD","TG","TH","TJ","TL","TN","TO","TR","TT","TV","TW","TZ","UA","UG","US","UY","UZ","VC","VE","VN","VU","WS","XK","ZA","ZM","ZW"
+        ],
+        "external_urls": { "spotify": "https://open.spotify.com/episode/2XBdjxpGr63N7MgN5EPjh0"  },
+        "href": "https://api.spotify.com/v1/episodes/2XBdjxpGr63N7MgN5EPjh0",
+        "id": "2XBdjxpGr63N7MgN5EPjh0",
+        "images": [
+          { "height": 640, "url": "https://open-images.acast.com/shows/cover/1758911387770-bed15256-ff27-46de-b7d0-9d8f669b7155.jpeg?height=250", "width": 640 },
+          { "height": 300, "url": "https://open-images.acast.com/shows/cover/1758911387770-bed15256-ff27-46de-b7d0-9d8f669b7155.jpeg?height=250", "width": 300 },
+          { "height": 64,  "url": "https://open-images.acast.com/shows/cover/1758911387770-bed15256-ff27-46de-b7d0-9d8f669b7155.jpeg?height=250", "width": 64 }
+        ],
+        "name": "Therese er nede for telling",
+        "release_date": "",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "episode",
+        "uri": "spotify:episode:2XBdjxpGr63N7MgN5EPjh0"
+      },
+
+
+
+
+
+
+
+
+      {
+        "album_type": "episode",
+        "artists": [
+          {
+            "external_urls": { "spotify": "https://open.spotify.com/show/6fZpCgk1hkdzIx9vL8i5bE" },
+            "href": "https://api.spotify.com/v1/shows/6fZpCgk1hkdzIx9vL8i5bE",
+            "id": "6fZpCgk1hkdzIx9vL8i5bE",
+            "name": "Hanna & de heldige",
+            "type": "show",
+            "uri": "spotify:show:6fZpCgk1hkdzIx9vL8i5bE"
+          }
+        ],
+        "available_markets": [
+          "AD","AE","AG","AL","AM","AO","AR","AT","AU","AZ","BA","BB","BD","BE","BF","BG","BH","BI","BJ","BN","BO","BR","BS","BT","BW","BY","BZ","CA","CD","CG","CH","CI","CL","CM","CO","CR","CV","CW","CY","CZ","DE","DJ","DK","DM","DO","DZ","EC","EE","EG","ES","ET","FI","FJ","FM","FR","GA","GB","GD","GE","GH","GM","GN","GQ","GR","GT","GW","GY","HK","HN","HR","HT","HU","ID","IE","IL","IN","IQ","IS","IT","JM","JO","JP","KE","KG","KH","KI","KM","KN","KR","KW","KZ","LA","LB","LC","LI","LK","LR","LS","LT","LU","LV","LY","MA","MC","MD","ME","MG","MH","MK","ML","MN","MO","MR","MT","MU","MV","MW","MX","MY","MZ","NA","NE","NG","NI","NL","NO","NP","NR","NZ","OM","PA","PE","PG","PH","PK","PL","PS","PT","PW","PY","QA","RO","RS","RW","SA","SB","SC","SE","SG","SI","SK","SL","SM","SN","SR","ST","SV","SZ","TD","TG","TH","TJ","TL","TN","TO","TR","TT","TV","TW","TZ","UA","UG","US","UY","UZ","VC","VE","VN","VU","WS","XK","ZA","ZM","ZW"
+        ],
+        "external_urls": { "spotify": "https://open.spotify.com/episode/2vVIHXoah8whDDzndPUdij" },
+        "href": "https://api.spotify.com/v1/episodes/2vVIHXoah8whDDzndPUdij",
+        "id": "2vVIHXoah8whDDzndPUdij",
+        "images": [
+          { "height": 640, "url": "https://image-cdn-ak.spotifycdn.com/image/ab67656300005f1fabcf7509f3346916616ffe9c", "width": 640 },
+          { "height": 300, "url": "https://image-cdn-ak.spotifycdn.com/image/ab67656300005f1fabcf7509f3346916616ffe9c", "width": 300 },
+          { "height": 64,  "url": "https://image-cdn-ak.spotifycdn.com/image/ab67656300005f1fabcf7509f3346916616ffe9c", "width": 64 }
+        ],
+        "name": "Hanna tilbake, Ulrikkesaken & Roc Boyz-fest",
+        "release_date": "",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "episode",
+        "uri": "spotify:episode:2vVIHXoah8whDDzndPUdij"
+      },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      {
+        "album_type": "episode",
+        "artists": [
+          {
+            "external_urls": { "spotify": "https://open.spotify.com/show/7fMz6JP4A1I6th67efyCxH" },
+            "href": "https://api.spotify.com/v1/shows/7fMz6JP4A1I6th67efyCxH",
+            "id": "7fMz6JP4A1I6th67efyCxH",
+            "name": "Nesten Hele Uka med Lepperød",
+            "type": "show",
+            "uri": "spotify:show:7fMz6JP4A1I6th67efyCxH"
+          }
+        ],
+        "available_markets": [
+          "AD","AE","AG","AL","AM","AO","AR","AT","AU","AZ","BA","BB","BD","BE","BF","BG","BH","BI","BJ","BN","BO","BR","BS","BT","BW","BZ","CA","CD","CG","CH","CI","CL","CM","CO","CR","CV","CW","CY","CZ","DE","DJ","DK","DM","DO","DZ","EC","EE","EG","ES","ET","FI","FJ","FM","FR","GA","GB","GD","GE","GH","GM","GN","GQ","GR","GT","GW","GY","HK","HN","HR","HT","HU","ID","IE","IL","IN","IQ","IS","IT","JM","JO","JP","KE","KG","KH","KI","KM","KN","KR","KW","KZ","LA","LB","LC","LI","LK","LR","LS","LT","LU","LV","LY","MA","MC","MD","ME","MG","MH","MK","ML","MN","MO","MR","MT","MU","MV","MW","MX","MY","MZ","NA","NE","NG","NI","NL","NO","NP","NR","NZ","OM","PA","PE","PG","PH","PK","PL","PS","PT","PW","PY","QA","RO","RS","RW","SA","SB","SC","SE","SG","SI","SK","SL","SM","SN","SR","ST","SV","SZ","TD","TG","TH","TJ","TL","TN","TO","TR","TT","TV","TW","TZ","UA","UG","US","UY","UZ","VC","VE","VN","VU","WS","XK","ZA","ZM","ZW"
+        ],
+        "external_urls": { "spotify": "https://open.spotify.com/episode/3ktWtdSvn92kPAkr5sCM7z" },
+        "href": "https://api.spotify.com/v1/episodes/3ktWtdSvn92kPAkr5sCM7z",
+        "id": "3ktWtdSvn92kPAkr5sCM7z",
+        "images": [
+          { "height": 640, "url": "https://image-cdn-ak.spotifycdn.com/image/ab67656300005f1f5d90a66076547606dc26300f", "width": 640 },
+          { "height": 300, "url": "https://image-cdn-ak.spotifycdn.com/image/ab67656300005f1f5d90a66076547606dc26300f", "width": 300 },
+          { "height": 64,  "url": "https://image-cdn-ak.spotifycdn.com/image/ab67656300005f1f5d90a66076547606dc26300f", "width": 64 }
+        ],
+        "name": "Blokka: Gyda, Goodiebags og Leverpostei på innerlomma",
+        "release_date": "",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "episode",
+        "uri": "spotify:episode:3ktWtdSvn92kPAkr5sCM7z"
+      },
+
+
+
+
+
+
+
+
+            {
+        "album_type": "episode",
+        "artists": [
+          {
+            "external_urls": { "spotify": "https://open.spotify.com/show/59jhtT6iMR2IsFXl3cq2cO" },
+            "href": "https://api.spotify.com/v1/shows/59jhtT6iMR2IsFXl3cq2cO",
+            "id": "59jhtT6iMR2IsFXl3cq2cO",
+            "name": "Gukild & Johaug",
+            "type": "show",
+            "uri": "spotify:show:59jhtT6iMR2IsFXl3cq2cO"
+          }
+        ],
+        "available_markets": [
+          "AD","AE","AG","AL","AM","AO","AR","AT","AU","AZ","BA","BB","BD","BE","BF","BG","BH","BI","BJ","BN","BO","BR","BS","BT","BW","BY","BZ","CA","CD","CG","CH","CI","CL","CM","CO","CR","CV","CW","CY","CZ","DE","DJ","DK","DM","DO","DZ","EC","EE","EG","ES","ET","FI","FJ","FM","FR","GA","GB","GD","GE","GH","GM","GN","GQ","GR","GT","GW","GY","HK","HN","HR","HT","HU","ID","IE","IL","IN","IQ","IS","IT","JM","JO","JP","KE","KG","KH","KI","KM","KN","KR","KW","KZ","LA","LB","LC","LI","LK","LR","LS","LT","LU","LV","LY","MA","MC","MD","ME","MG","MH","MK","ML","MN","MO","MR","MT","MU","MV","MW","MX","MY","MZ","NA","NE","NG","NI","NL","NO","NP","NR","NZ","OM","PA","PE","PG","PH","PK","PL","PS","PT","PW","PY","QA","RO","RS","RW","SA","SB","SC","SE","SG","SI","SK","SL","SM","SN","SR","ST","SV","SZ","TD","TG","TH","TJ","TL","TN","TO","TR","TT","TV","TW","TZ","UA","UG","US","UY","UZ","VC","VE","VN","VU","WS","XK","ZA","ZM","ZW"
+        ],
+        "external_urls": { "spotify": "https://open.spotify.com/episode/1fEyugN74QdofEKTb8vBe9?si=IQlvF_A5To69qN-X2EEH0Q"  },
+        "href": "https://api.spotify.com/v1/episodes/1fEyugN74QdofEKTb8vBe9",
+        "id": "1fEyugN74QdofEKTb8vBe9",
+        "images": [
+          { "height": 640, "url": "https://image-cdn-ak.spotifycdn.com/image/ab67656300005f1f96bab9ffb8df6a28aa1b9bad", "width": 640 },
+          { "height": 300, "url": "https://image-cdn-ak.spotifycdn.com/image/ab67656300005f1f96bab9ffb8df6a28aa1b9bad", "width": 300 },
+          { "height": 64,  "url": "https://image-cdn-ak.spotifycdn.com/image/ab67656300005f1f96bab9ffb8df6a28aa1b9bad", "width": 64 }
+        ],
+        "name": "Treningsdagboka: Hvor mye bedre er formen?",
+        "release_date": "",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "episode",
+        "uri": "spotify:episode:2XBdjxpGr63N7MgN5EPjh0"
+      },
+
+
+
+
+
+
+
+
+
+
+                  {
+        "album_type": "episode",
+        "artists": [
+          {
+            "external_urls": { "spotify": "https://open.spotify.com/show/1CwfMwD7ELZ6vToFANE26y" },
+            "href": "https://api.spotify.com/v1/shows/1CwfMwD7ELZ6vToFANE26y",
+            "id": "1CwfMwD7ELZ6vToFANE26y",
+            "name": "Christine Dancke",
+            "type": "show",
+            "uri": "spotify:show:1CwfMwD7ELZ6vToFANE26y"
+          }
+        ],
+        "available_markets": [
+          "AD","AE","AG","AL","AM","AO","AR","AT","AU","AZ","BA","BB","BD","BE","BF","BG","BH","BI","BJ","BN","BO","BR","BS","BT","BW","BY","BZ","CA","CD","CG","CH","CI","CL","CM","CO","CR","CV","CW","CY","CZ","DE","DJ","DK","DM","DO","DZ","EC","EE","EG","ES","ET","FI","FJ","FM","FR","GA","GB","GD","GE","GH","GM","GN","GQ","GR","GT","GW","GY","HK","HN","HR","HT","HU","ID","IE","IL","IN","IQ","IS","IT","JM","JO","JP","KE","KG","KH","KI","KM","KN","KR","KW","KZ","LA","LB","LC","LI","LK","LR","LS","LT","LU","LV","LY","MA","MC","MD","ME","MG","MH","MK","ML","MN","MO","MR","MT","MU","MV","MW","MX","MY","MZ","NA","NE","NG","NI","NL","NO","NP","NR","NZ","OM","PA","PE","PG","PH","PK","PL","PS","PT","PW","PY","QA","RO","RS","RW","SA","SB","SC","SE","SG","SI","SK","SL","SM","SN","SR","ST","SV","SZ","TD","TG","TH","TJ","TL","TN","TO","TR","TT","TV","TW","TZ","UA","UG","US","UY","UZ","VC","VE","VN","VU","WS","XK","ZA","ZM","ZW"
+        ],
+        "external_urls": { "spotify": "https://open.spotify.com/episode/7b4nWSnyvfAjWvqKaJlhEf?si=c55cd51a2c9849dc"  },
+        "href": "https://api.spotify.com/v1/episodes/7b4nWSnyvfAjWvqKaJlhEf",
+        "id": "7b4nWSnyvfAjWvqKaJlhEf",
+        "images": [
+          { "height": 640, "url": "https://image-cdn-ak.spotifycdn.com/image/ab67656300005f1fe762cb4702d083b1b58eb804", "width": 640 },
+          { "height": 300, "url": "https://image-cdn-ak.spotifycdn.com/image/ab67656300005f1fe762cb4702d083b1b58eb804", "width": 300 },
+          { "height": 64,  "url": "https://image-cdn-ak.spotifycdn.com/image/ab67656300005f1fe762cb4702d083b1b58eb804", "width": 64 }
+        ],
+        "name": "Julie Berga: Viktigheten av å få nei",
+        "release_date": "",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "episode",
+        "uri": "spotify:episode:7b4nWSnyvfAjWvqKaJlhEf"
+
+      },
+
+
+
+
+
+      {
+        "album_type": "episode",
+        "artists": [
+          {
+            "external_urls": { "spotify": "https://open.spotify.com/show/7fMz6JP4A1I6th67efyCxH" },
+            "href": "https://api.spotify.com/v1/shows/7fMz6JP4A1I6th67efyCxH",
+            "id": "7fMz6JP4A1I6th67efyCxH",
+            "name": "Nesten Hele Uka med Lepperød",
+            "type": "show",
+            "uri": "spotify:show:7fMz6JP4A1I6th67efyCxH"
+          }
+        ],
+        "available_markets": [
+          "AD","AE","AG","AL","AM","AO","AR","AT","AU","AZ","BA","BB","BD","BE","BF","BG","BH","BI","BJ","BN","BO","BR","BS","BT","BW","BZ","CA","CD","CG","CH","CI","CL","CM","CO","CR","CV","CW","CY","CZ","DE","DJ","DK","DM","DO","DZ","EC","EE","EG","ES","ET","FI","FJ","FM","FR","GA","GB","GD","GE","GH","GM","GN","GQ","GR","GT","GW","GY","HK","HN","HR","HT","HU","ID","IE","IL","IN","IQ","IS","IT","JM","JO","JP","KE","KG","KH","KI","KM","KN","KR","KW","KZ","LA","LB","LC","LI","LK","LR","LS","LT","LU","LV","LY","MA","MC","MD","ME","MG","MH","MK","ML","MN","MO","MR","MT","MU","MV","MW","MX","MY","MZ","NA","NE","NG","NI","NL","NO","NP","NR","NZ","OM","PA","PE","PG","PH","PK","PL","PS","PT","PW","PY","QA","RO","RS","RW","SA","SB","SC","SE","SG","SI","SK","SL","SM","SN","SR","ST","SV","SZ","TD","TG","TH","TJ","TL","TN","TO","TR","TT","TV","TW","TZ","UA","UG","US","UY","UZ","VC","VE","VN","VU","WS","XK","ZA","ZM","ZW"
+        ],
+        "external_urls": { "spotify": "https://open.spotify.com/episode/5BBgHMq14aJmSoDMjP7u0Q" },
+        "href": "https://api.spotify.com/v1/episodes/5BBgHMq14aJmSoDMjP7u0Q",
+        "id": "5BBgHMq14aJmSoDMjP7u0Q",
+        "images": [
+          { "height": 640, "url": "https://image-cdn-ak.spotifycdn.com/image/ab67656300005f1fa5d0db4b50b63bc21f7853b3", "width": 640 },
+          { "height": 300, "url": "https://image-cdn-ak.spotifycdn.com/image/ab67656300005f1fa5d0db4b50b63bc21f7853b3", "width": 300 },
+          { "height": 64,  "url": "https://image-cdn-ak.spotifycdn.com/image/ab67656300005f1fa5d0db4b50b63bc21f7853b3", "width": 64 }
+        ],
+        "name": "Morten Ramm: Positivt stress eller hjernetåke?",
+        "release_date": "",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "episode",
+        "uri": "spotify:episode:5BBgHMq14aJmSoDMjP7u0Q"
+      },
+
+
+
+
+
+
+
+
+      {
+  "album_type": "episode",
+  "artists": [
+    {
+      "external_urls": { "spotify": "https://open.spotify.com/show/6fZpCgk1hkdzIx9vL8i5bE?si=168be3875473440d&nd=1" },
+      "href": "https://api.spotify.com/v1/shows/PUT_SHOW_ID",
+      "id": "PUT_SHOW_ID",
+      "name": "Gukild & Johaug",
+      "type": "show",
+      "uri": "spotify:show:PUT_SHOW_ID"
+    }
+  ],
+  "available_markets": [
+    "AD","AE","AG","AL","AM","AO","AR","AT","AU","AZ","BA","BB","BD","BE","BF","BG","BH","BI","BJ","BN","BO","BR","BS","BT","BW","BY","BZ","CA","CD","CG","CH","CI","CL","CM","CO","CR","CV","CW","CY","CZ","DE","DJ","DK","DM","DO","DZ","EC","EE","EG","ES","ET","FI","FJ","FM","FR","GA","GB","GD","GE","GH","GM","GN","GQ","GR","GT","GW","GY","HK","HN","HR","HT","HU","ID","IE","IL","IN","IQ","IS","IT","JM","JO","JP","KE","KG","KH","KI","KM","KN","KR","KW","KZ","LA","LB","LC","LI","LK","LR","LS","LT","LU","LV","LY","MA","MC","MD","ME","MG","MH","MK","ML","MN","MO","MR","MT","MU","MV","MW","MX","MY","MZ","NA","NE","NG","NI","NL","NO","NP","NR","NZ","OM","PA","PE","PG","PH","PK","PL","PS","PT","PW","PY","QA","RO","RS","RW","SA","SB","SC","SE","SG","SI","SK","SL","SM","SN","SR","ST","SV","SZ","TD","TG","TH","TJ","TL","TN","TO","TR","TT","TV","TW","TZ","UA","UG","US","UY","UZ","VC","VE","VN","VU","WS","XK","ZA","ZM","ZW"
+  ],
+  "external_urls": { "spotify": "https://open.spotify.com/episode/1rWy1Umk4nrggjAyKId1If?si=9ed6666a54e34c99&nd=1" },
+  "href": "https://api.spotify.com/v1/episodes/1rWy1Umk4nrggjAyKId1If",
+  "id": "1rWy1Umk4nrggjAyKId1If",
+  "images": [
+    { "height": 640, "url": "https://image-cdn-ak.spotifycdn.com/image/ab67656300005f1f290c2bb8638e6c9559e7b1c4", "width": 640 },
+    { "height": 300, "url": "https://image-cdn-ak.spotifycdn.com/image/ab67656300005f1f290c2bb8638e6c9559e7b1c4", "width": 300 },
+    { "height": 64,  "url": "https://image-cdn-ak.spotifycdn.com/image/ab67656300005f1f290c2bb8638e6c9559e7b1c4", "width": 64 }
+  ],
+  "name": "Marit Bjørgen om karrierekjellern, knebøy & treningsknep",
+  "release_date": "",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "type": "episode",
+  "uri": "spotify:episode:1rWy1Umk4nrggjAyKId1If"
+}
+,
+
+
+
+
+
+
+
+     {
+        "album_type": "episode",
+        "artists": [
+          {
+            "external_urls": { "spotify": "https://open.spotify.com/show/6fZpCgk1hkdzIx9vL8i5bE" },
+            "href": "https://api.spotify.com/v1/shows/6fZpCgk1hkdzIx9vL8i5bE",
+            "id": "6fZpCgk1hkdzIx9vL8i5bE",
+            "name": "Hanna & de heldige",
+            "type": "show",
+            "uri": "spotify:show:6fZpCgk1hkdzIx9vL8i5bE"
+          }
+        ],
+        "available_markets": [
+          "AD","AE","AG","AL","AM","AO","AR","AT","AU","AZ","BA","BB","BD","BE","BF","BG","BH","BI","BJ","BN","BO","BR","BS","BT","BW","BY","BZ","CA","CD","CG","CH","CI","CL","CM","CO","CR","CV","CW","CY","CZ","DE","DJ","DK","DM","DO","DZ","EC","EE","EG","ES","ET","FI","FJ","FM","FR","GA","GB","GD","GE","GH","GM","GN","GQ","GR","GT","GW","GY","HK","HN","HR","HT","HU","ID","IE","IL","IN","IQ","IS","IT","JM","JO","JP","KE","KG","KH","KI","KM","KN","KR","KW","KZ","LA","LB","LC","LI","LK","LR","LS","LT","LU","LV","LY","MA","MC","MD","ME","MG","MH","MK","ML","MN","MO","MR","MT","MU","MV","MW","MX","MY","MZ","NA","NE","NG","NI","NL","NO","NP","NR","NZ","OM","PA","PE","PG","PH","PK","PL","PS","PT","PW","PY","QA","RO","RS","RW","SA","SB","SC","SE","SG","SI","SK","SL","SM","SN","SR","ST","SV","SZ","TD","TG","TH","TJ","TL","TN","TO","TR","TT","TV","TW","TZ","UA","UG","US","UY","UZ","VC","VE","VN","VU","WS","XK","ZA","ZM","ZW"
+        ],
+        "external_urls": { "spotify": "https://open.spotify.com/episode/0EizdWb0PXd2x6yTWnwHef" },
+        "href": "https://api.spotify.com/v1/episodes/0EizdWb0PXd2x6yTWnwHef",
+        "id": "0EizdWb0PXd2x6yTWnwHef",
+        "images": [
+          { "height": 640, "url": "https://image-cdn-ak.spotifycdn.com/image/ab67656300005f1fabcf7509f3346916616ffe9c", "width": 640 },
+          { "height": 300, "url": "https://image-cdn-ak.spotifycdn.com/image/ab67656300005f1fabcf7509f3346916616ffe9c", "width": 300 },
+          { "height": 64,  "url": "https://image-cdn-ak.spotifycdn.com/image/ab67656300005f1fabcf7509f3346916616ffe9c", "width": 64 }
+        ],
+        "name": "Q&A: Hanna svarer på alt",
+        "release_date": "2022-12-08",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "episode",
+        "uri": "spotify:episode:0EizdWb0PXd2x6yTWnwHef"
+      },
+
+
+
+
+
+
+      {
+        "album_type": "episode",
+        "artists": [
+          {
+            "external_urls": { "spotify": "https://open.spotify.com/show/7fMz6JP4A1I6th67efyCxH" },
+            "href": "https://api.spotify.com/v1/shows/7fMz6JP4A1I6th67efyCxH",
+            "id": "7fMz6JP4A1I6th67efyCxH",
+            "name": "Nesten Hele Uka med Lepperød",
+            "type": "show",
+            "uri": "spotify:show:7fMz6JP4A1I6th67efyCxH"
+          }
+        ],
+        "available_markets": [
+          "AD","AE","AG","AL","AM","AO","AR","AT","AU","AZ","BA","BB","BD","BE","BF","BG","BH","BI","BJ","BN","BO","BR","BS","BT","BW","BZ","CA","CD","CG","CH","CI","CL","CM","CO","CR","CV","CW","CY","CZ","DE","DJ","DK","DM","DO","DZ","EC","EE","EG","ES","ET","FI","FJ","FM","FR","GA","GB","GD","GE","GH","GM","GN","GQ","GR","GT","GW","GY","HK","HN","HR","HT","HU","ID","IE","IL","IN","IQ","IS","IT","JM","JO","JP","KE","KG","KH","KI","KM","KN","KR","KW","KZ","LA","LB","LC","LI","LK","LR","LS","LT","LU","LV","LY","MA","MC","MD","ME","MG","MH","MK","ML","MN","MO","MR","MT","MU","MV","MW","MX","MY","MZ","NA","NE","NG","NI","NL","NO","NP","NR","NZ","OM","PA","PE","PG","PH","PK","PL","PS","PT","PW","PY","QA","RO","RS","RW","SA","SB","SC","SE","SG","SI","SK","SL","SM","SN","SR","ST","SV","SZ","TD","TG","TH","TJ","TL","TN","TO","TR","TT","TV","TW","TZ","UA","UG","US","UY","UZ","VC","VE","VN","VU","WS","XK","ZA","ZM","ZW"
+        ],
+        "external_urls": { "spotify": "https://open.spotify.com/episode/1e7inIyRa7ACYH8mIqNDCA" },
+        "href": "https://api.spotify.com/v1/episodes/1e7inIyRa7ACYH8mIqNDCA",
+        "id": "1e7inIyRa7ACYH8mIqNDCA",
+        "images": [
+          { "height": 640, "url": "https://image-cdn-ak.spotifycdn.com/image/ab67656300005f1f24106a6e8c40b9ee32d5825d", "width": 640 },
+          { "height": 300, "url": "https://image-cdn-ak.spotifycdn.com/image/ab67656300005f1f24106a6e8c40b9ee32d5825d", "width": 300 },
+          { "height": 64,  "url": "https://image-cdn-ak.spotifycdn.com/image/ab67656300005f1f24106a6e8c40b9ee32d5825d", "width": 64 }
+        ],
+        "name": "Supermann er ikke super",
+        "release_date": "",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "episode",
+        "uri": "spotify:episode:1e7inIyRa7ACYH8mIqNDCA"
+      } ,
+
+
+
+
+
+
+
+ 
+
+      
+{
+  "album_type": "episode",
+  "artists": [
+    {
+      "external_urls": { "spotify": "https://open.spotify.com/show/6fZpCgk1hkdzIx9vL8i5bE?si=168be3875473440d&nd=1" },
+      "href": "https://api.spotify.com/v1/shows/PUT_SHOW_ID",
+      "id": "PUT_SHOW_ID",
+      "name": "Hanna & de heldige",
+      "type": "show",
+      "uri": "spotify:show:PUT_SHOW_ID"
+    }
+  ],
+  "available_markets": [
+    "AD","AE","AG","AL","AM","AO","AR","AT","AU","AZ","BA","BB","BD","BE","BF","BG","BH","BI","BJ","BN","BO","BR","BS","BT","BW","BY","BZ","CA","CD","CG","CH","CI","CL","CM","CO","CR","CV","CW","CY","CZ","DE","DJ","DK","DM","DO","DZ","EC","EE","EG","ES","ET","FI","FJ","FM","FR","GA","GB","GD","GE","GH","GM","GN","GQ","GR","GT","GW","GY","HK","HN","HR","HT","HU","ID","IE","IL","IN","IQ","IS","IT","JM","JO","JP","KE","KG","KH","KI","KM","KN","KR","KW","KZ","LA","LB","LC","LI","LK","LR","LS","LT","LU","LV","LY","MA","MC","MD","ME","MG","MH","MK","ML","MN","MO","MR","MT","MU","MV","MW","MX","MY","MZ","NA","NE","NG","NI","NL","NO","NP","NR","NZ","OM","PA","PE","PG","PH","PK","PL","PS","PT","PW","PY","QA","RO","RS","RW","SA","SB","SC","SE","SG","SI","SK","SL","SM","SN","SR","ST","SV","SZ","TD","TG","TH","TJ","TL","TN","TO","TR","TT","TV","TW","TZ","UA","UG","US","UY","UZ","VC","VE","VN","VU","WS","XK","ZA","ZM","ZW"
+  ],
+  "external_urls": { "spotify": "https://open.spotify.com/episode/1j5OlRhNhyFRWdAdtI1kzH?si=ec5d34a417cd4482&nd=1" },
+  "href": "https://api.spotify.com/v1/episodes/1j5OlRhNhyFRWdAdtI1kzH",
+  "id": "1j5OlRhNhyFRWdAdtI1kzH",
+  "images": [
+    { "height": 640, "url": "https://image-cdn-fa.spotifycdn.com/image/ab67656300005f1f84374b198f7783aa046185f9", "width": 640 },
+    { "height": 300, "url": "https://image-cdn-fa.spotifycdn.com/image/ab67656300005f1f84374b198f7783aa046185f9", "width": 300 },
+    { "height": 64,  "url": "https://image-cdn-fa.spotifycdn.com/image/ab67656300005f1f84374b198f7783aa046185f9", "width": 64 }
+  ],
+  "name": "Takeaway-Danby, Mr Pussyman og en siste med Nora",
+  "release_date": "",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "type": "episode",
+  "uri": "spotify:episode:1j5OlRhNhyFRWdAdtI1kzH"
+}
+,
+
+
+
+
+
+
+
+
+
+{
+  "album_type": "episode",
+  "artists": [
+    {
+      "external_urls": { "spotify": "https://open.spotify.com/show/6fZpCgk1hkdzIx9vL8i5bE?si=168be3875473440d&nd=1" },
+      "href": "https://api.spotify.com/v1/shows/PUT_SHOW_ID",
+      "id": "PUT_SHOW_ID",
+      "name": "Nesten Hele Uka med Lepperød",
+      "type": "show",
+      "uri": "spotify:show:PUT_SHOW_ID"
+    }
+  ],
+  "available_markets": [
+    "AD","AE","AG","AL","AM","AO","AR","AT","AU","AZ","BA","BB","BD","BE","BF","BG","BH","BI","BJ","BN","BO","BR","BS","BT","BW","BY","BZ","CA","CD","CG","CH","CI","CL","CM","CO","CR","CV","CW","CY","CZ","DE","DJ","DK","DM","DO","DZ","EC","EE","EG","ES","ET","FI","FJ","FM","FR","GA","GB","GD","GE","GH","GM","GN","GQ","GR","GT","GW","GY","HK","HN","HR","HT","HU","ID","IE","IL","IN","IQ","IS","IT","JM","JO","JP","KE","KG","KH","KI","KM","KN","KR","KW","KZ","LA","LB","LC","LI","LK","LR","LS","LT","LU","LV","LY","MA","MC","MD","ME","MG","MH","MK","ML","MN","MO","MR","MT","MU","MV","MW","MX","MY","MZ","NA","NE","NG","NI","NL","NO","NP","NR","NZ","OM","PA","PE","PG","PH","PK","PL","PS","PT","PW","PY","QA","RO","RS","RW","SA","SB","SC","SE","SG","SI","SK","SL","SM","SN","SR","ST","SV","SZ","TD","TG","TH","TJ","TL","TN","TO","TR","TT","TV","TW","TZ","UA","UG","US","UY","UZ","VC","VE","VN","VU","WS","XK","ZA","ZM","ZW"
+  ],
+  "external_urls": { "spotify": "https://open.spotify.com/episode/1e7inIyRa7ACYH8mIqNDCA?si=9d60f72f2f8042fd&nd=1" },
+  "href": "https://api.spotify.com/v1/episodes/1e7inIyRa7ACYH8mIqNDCA",
+  "id": "1e7inIyRa7ACYH8mIqNDCA",
+  "images": [
+    { "height": 640, "url": "https://image-cdn-fa.spotifycdn.com/image/ab67656300005f1f58ddc0524390f8ad4e20ba6c", "width": 640 },
+    { "height": 300, "url": "https://image-cdn-fa.spotifycdn.com/image/ab67656300005f1f58ddc0524390f8ad4e20ba6c", "width": 300 },
+    { "height": 64,  "url": "https://image-cdn-fa.spotifycdn.com/image/ab67656300005f1f58ddc0524390f8ad4e20ba6c", "width": 64 }
+  ],
+  "name": "Blokka: Bernt Hulsker med steinhard trurmunn",
+  "release_date": "",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "type": "episode",
+  "uri": "spotify:episode:1e7inIyRa7ACYH8mIqNDCA"
+}
+,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+
+        "album_type": "episode",
+        "artists": [
+          {
+            "external_urls": { "spotify": "https://open.spotify.com/show/1CwfMwD7ELZ6vToFANE26y" },
+            "href": "https://api.spotify.com/v1/shows/1CwfMwD7ELZ6vToFANE26y",
+            "id": "1CwfMwD7ELZ6vToFANE26y",
+            "name": "Christine Dancke",
+            "type": "show",
+            "uri": "spotify:show:1CwfMwD7ELZ6vToFANE26y"
+          }
+        ],
+        "available_markets": [
+          "AD","AE","AG","AL","AM","AO","AR","AT","AU","AZ","BA","BB","BD","BE","BF","BG","BH","BI","BJ","BN","BO","BR","BS","BT","BW","BY","BZ","CA","CD","CG","CH","CI","CL","CM","CO","CR","CV","CW","CY","CZ","DE","DJ","DK","DM","DO","DZ","EC","EE","EG","ES","ET","FI","FJ","FM","FR","GA","GB","GD","GE","GH","GM","GN","GQ","GR","GT","GW","GY","HK","HN","HR","HT","HU","ID","IE","IL","IN","IQ","IS","IT","JM","JO","JP","KE","KG","KH","KI","KM","KN","KR","KW","KZ","LA","LB","LC","LI","LK","LR","LS","LT","LU","LV","LY","MA","MC","MD","ME","MG","MH","MK","ML","MN","MO","MR","MT","MU","MV","MW","MX","MY","MZ","NA","NE","NG","NI","NL","NO","NP","NR","NZ","OM","PA","PE","PG","PH","PK","PL","PS","PT","PW","PY","QA","RO","RS","RW","SA","SB","SC","SE","SG","SI","SK","SL","SM","SN","SR","ST","SV","SZ","TD","TG","TH","TJ","TL","TN","TO","TR","TT","TV","TW","TZ","UA","UG","US","UY","UZ","VC","VE","VN","VU","WS","XK","ZA","ZM","ZW"
+        ],
+        "external_urls": { "spotify": "https://open.spotify.com/episode/1CtOizqYJfl74IBvW9K0HL?si=231f2aab3f7e43d6" },
+        "href": "https://api.spotify.com/v1/episodes/1CtOizqYJfl74IBvW9K0HL",
+        "id": "1CtOizqYJfl74IBvW9K0HL",
+        "images": [
+          { "height": 640, "url": "https://image-cdn-ak.spotifycdn.com/image/ab67656300005f1fe762cb4702d083b1b58eb804", "width": 640 },
+          { "height": 300, "url": "https://image-cdn-ak.spotifycdn.com/image/ab67656300005f1fe762cb4702d083b1b58eb804", "width": 300 },
+          { "height": 64,  "url": "https://image-cdn-ak.spotifycdn.com/image/ab67656300005f1fe762cb4702d083b1b58eb804", "width": 64 }
+        ],
+        "name": "Er Nossan Norges nye rapstjerne?",
+        "release_date": "",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "episode",
+        "uri": "spotify:episode:1CtOizqYJfl74IBvW9K0HL"
+},
+
+
+
+
+
+
+
+{
+  "album_type": "episode",
+  "artists": [
+    {
+      "external_urls": { "spotify": "https://open.spotify.com/show/PUT_SHOW_ID?nd=1" },
+      "href": "https://api.spotify.com/v1/shows/PUT_SHOW_ID",
+      "id": "PUT_SHOW_ID",
+      "name": "Nesten Hele Uka med Lepperød",
+      "type": "show",
+      "uri": "spotify:show:PUT_SHOW_ID"
+    }
+  ],
+  "available_markets": [
+    "AD","AE","AG","AL","AM","AO","AR","AT","AU","AZ","BA","BB","BD","BE","BF","BG","BH","BI","BJ","BN","BO","BR","BS","BT","BW","BY","BZ","CA","CD","CG","CH","CI","CL","CM","CO","CR","CV","CW","CY","CZ","DE","DJ","DK","DM","DO","DZ","EC","EE","EG","ES","ET","FI","FJ","FM","FR","GA","GB","GD","GE","GH","GM","GN","GQ","GR","GT","GW","GY","HK","HN","HR","HT","HU","ID","IE","IL","IN","IQ","IS","IT","JM","JO","JP","KE","KG","KH","KI","KM","KN","KR","KW","KZ","LA","LB","LC","LI","LK","LR","LS","LT","LU","LV","LY","MA","MC","MD","ME","MG","MH","MK","ML","MN","MO","MR","MT","MU","MV","MW","MX","MY","MZ","NA","NE","NG","NI","NL","NO","NP","NR","NZ","OM","PA","PE","PG","PH","PK","PL","PS","PT","PW","PY","QA","RO","RS","RW","SA","SB","SC","SE","SG","SI","SK","SL","SM","SN","SR","ST","SV","SZ","TD","TG","TH","TJ","TL","TN","TO","TR","TT","TV","TW","TZ","UA","UG","US","UY","UZ","VC","VE","VN","VU","WS","XK","ZA","ZM","ZW"
+  ],
+  "external_urls": { "spotify": "https://open.spotify.com/episode/6CiVoim9QSTQsoLkiQmR2Q?si=eae818ec13bc455e&nd=1" },
+  "href": "https://api.spotify.com/v1/episodes/6CiVoim9QSTQsoLkiQmR2Q",
+  "id": "6CiVoim9QSTQsoLkiQmR2Q",
+  "images": [
+    { "height": 640, "url": "https://image-cdn-ak.spotifycdn.com/image/ab67656300005f1f754676d68e25027bad68f21f", "width": 640 },
+    { "height": 300, "url": "https://image-cdn-ak.spotifycdn.com/image/ab67656300005f1f754676d68e25027bad68f21f", "width": 300 },
+    { "height": 64,  "url": "https://image-cdn-ak.spotifycdn.com/image/ab67656300005f1f754676d68e25027bad68f21f", "width": 64 }
+  ],
+  "name": "Therese Johaug: Er idrettsutøvere kjedelige?",
+  "release_date": "",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "type": "episode",
+  "uri": "spotify:episode:6CiVoim9QSTQsoLkiQmR2Q"
+}
+,
+
+
+
+
+
+
+
+
+
+{
+  "album_type": "episode",
+  "artists": [
+    {
+      "external_urls": { "spotify": "https://open.spotify.com/show/6fZpCgk1hkdzIx9vL8i5bE?si=168be3875473440d&nd=1" },
+      "href": "https://api.spotify.com/v1/shows/PUT_SHOW_ID",
+      "id": "PUT_SHOW_ID",
+      "name": "Hanna & de heldige",
+      "type": "show",
+      "uri": "spotify:show:PUT_SHOW_ID"
+    }
+  ],
+  "available_markets": [
+    "AD","AE","AG","AL","AM","AO","AR","AT","AU","AZ","BA","BB","BD","BE","BF","BG","BH","BI","BJ","BN","BO","BR","BS","BT","BW","BY","BZ","CA","CD","CG","CH","CI","CL","CM","CO","CR","CV","CW","CY","CZ","DE","DJ","DK","DM","DO","DZ","EC","EE","EG","ES","ET","FI","FJ","FM","FR","GA","GB","GD","GE","GH","GM","GN","GQ","GR","GT","GW","GY","HK","HN","HR","HT","HU","ID","IE","IL","IN","IQ","IS","IT","JM","JO","JP","KE","KG","KH","KI","KM","KN","KR","KW","KZ","LA","LB","LC","LI","LK","LR","LS","LT","LU","LV","LY","MA","MC","MD","ME","MG","MH","MK","ML","MN","MO","MR","MT","MU","MV","MW","MX","MY","MZ","NA","NE","NG","NI","NL","NO","NP","NR","NZ","OM","PA","PE","PG","PH","PK","PL","PS","PT","PW","PY","QA","RO","RS","RW","SA","SB","SC","SE","SG","SI","SK","SL","SM","SN","SR","ST","SV","SZ","TD","TG","TH","TJ","TL","TN","TO","TR","TT","TV","TW","TZ","UA","UG","US","UY","UZ","VC","VE","VN","VU","WS","XK","ZA","ZM","ZW"
+  ],
+  "external_urls": { "spotify": "https://open.spotify.com/episode/1QHDYxB5UcNARTBnATkNc6?si=cd456c61c7eb430a&nd=1" },
+  "href": "https://api.spotify.com/v1/episodes/1QHDYxB5UcNARTBnATkNc6",
+  "id": "1QHDYxB5UcNARTBnATkNc6",
+  "images": [
+    { "height": 640, "url": "https://image-cdn-ak.spotifycdn.com/image/ab67656300005f1fabcf7509f3346916616ffe9c", "width": 640 },
+    { "height": 300, "url": "https://image-cdn-ak.spotifycdn.com/image/ab67656300005f1fabcf7509f3346916616ffe9c", "width": 300 },
+    { "height": 64,  "url": "https://image-cdn-ak.spotifycdn.com/image/ab67656300005f1fabcf7509f3346916616ffe9c", "width": 64 }
+  ],
+  "name": "Hanna's fødselshistorie",
+  "release_date": "",
+  "release_date_precision": "day",
+  "total_tracks": 1,
+  "type": "episode",
+  "uri": "spotify:episode:1QHDYxB5UcNARTBnATkNc6"
+},
+
+
+
+
+
+
+
+
+
+
+{        "album_type": "episode",
+        "artists": [
+          {
+            "external_urls": { "spotify": "https://open.spotify.com/show/5bOgnhXT3nMX7f1BO67tyD" },
+            "href": "https://api.spotify.com/v1/shows/5bOgnhXT3nMX7f1BO67tyD",
+            "id": "5bOgnhXT3nMX7f1BO67tyD",
+            "name": "Ida med hjertet i hånden",
+            "type": "show",
+            "uri": "spotify:show:5bOgnhXT3nMX7f1BO67tyD"
+          }
+        ],
+        "available_markets": [
+          "AD","AE","AG","AL","AM","AO","AR","AT","AU","AZ","BA","BB","BD","BE","BF","BG","BH","BI","BJ","BN","BO","BR","BS","BT","BW","BY","BZ","CA","CD","CG","CH","CI","CL","CM","CO","CR","CV","CW","CY","CZ","DE","DJ","DK","DM","DO","DZ","EC","EE","EG","ES","ET","FI","FJ","FM","FR","GA","GB","GD","GE","GH","GM","GN","GQ","GR","GT","GW","GY","HK","HN","HR","HT","HU","ID","IE","IL","IN","IQ","IS","IT","JM","JO","JP","KE","KG","KH","KI","KM","KN","KR","KW","KZ","LA","LB","LC","LI","LK","LR","LS","LT","LU","LV","LY","MA","MC","MD","ME","MG","MH","MK","ML","MN","MO","MR","MT","MU","MV","MW","MX","MY","MZ","NA","NE","NG","NI","NL","NO","NP","NR","NZ","OM","PA","PE","PG","PH","PK","PL","PS","PT","PW","PY","QA","RO","RS","RW","SA","SB","SC","SE","SG","SI","SK","SL","SM","SN","SR","ST","SV","SZ","TD","TG","TH","TJ","TL","TN","TO","TR","TT","TV","TW","TZ","UA","UG","US","UY","UZ","VC","VE","VN","VU","WS","XK","ZA","ZM","ZW"
+        ],
+        "external_urls": { "spotify": "https://open.spotify.com/episode/0iLwiUpe0mekG8HnwxtgBe?si=58698f3a3f55493e"  },
+        "href": "https://api.spotify.com/v1/episodes/0iLwiUpe0mekG8HnwxtgBe",
+        "id": "0iLwiUpe0mekG8HnwxtgBe",
+        "images": [
+          { "height": 640, "url": "https://image-cdn-fa.spotifycdn.com/image/ab67656300005f1fd5723a05acf047c2d8d97ca3", "width": 640 },
+          { "height": 300, "url": "https://image-cdn-fa.spotifycdn.com/image/ab67656300005f1fd5723a05acf047c2d8d97ca3", "width": 300 },
+          { "height": 64,  "url": "https://image-cdn-fa.spotifycdn.com/image/ab67656300005f1fd5723a05acf047c2d8d97ca3", "width": 64 }
+        ],
+        "name": "Lise Finckenhagen: Sorgen etter ulykken og frykten for å bli forlatt - hør hele episoden hos Podme",
+        "release_date": "",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "episode",
+        "uri": "spotify:episode:0iLwiUpe0mekG8HnwxtgBe"
+      }
+
+
+
+
+
+
+
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 50,
+    "previous": "https://api.spotify.com/v1/browse/new-releases?country=CH&offset=0&limit=50",
+    "total": 100
+  }
+}
